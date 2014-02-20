@@ -1,6 +1,10 @@
 Meqtrees Documentation
 ======================
 
-Read everything about meqtrees on the wiki:
+This is the umbrella project for various MeqTrees subprojects. 
 
-https://github.com/ska-sa/meqtrees/wiki
+This project hosts no code, only meta files, the wiki and the website.
+
+Learn more about meqtrees:
+
+http://meqtrees.net
