@@ -3,6 +3,6 @@
 # $ curl -s https://raw.github.com/ska-sa/papino/master/ubuntu.sh | sudo sh
 #
 apt-get install -y python-software-properties software-properties-common
-add-apt-repository ppa:ska-sa/main
+add-apt-repository ppa:radio-astro/main
 apt-get update
 apt-get install -y meqtrees
